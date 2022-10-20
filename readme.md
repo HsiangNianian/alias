@@ -9,7 +9,7 @@
     "brief":"指令别名 - 缩写",
     "comment":"",
     "helpdoc":{
-        "thesaurus":"https://github.com/cypress0522/alias"
+        "alias":"https://github.com/cypress0522/alias"
     }
 }
 ```
